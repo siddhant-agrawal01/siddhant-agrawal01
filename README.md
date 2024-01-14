@@ -1,6 +1,6 @@
 - 👋 Hi, I’m siddhant agrawal
-- 👀 I’m interested in learning software development
-- 🌱 I’m currently learning cloud fundamentals ,python
+- 👀 I’m interested in web dev and devops
+- 🌱 I’m currently learning web dev
 - 📫 How to reach me ...
 - my twitter handle - https://twitter.com/Siddhant_232
 - email- siddhant_010@outlook.com
