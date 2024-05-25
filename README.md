@@ -7,7 +7,7 @@
 -  🖥️ Intereseted in computer science , Linux  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to T3 stack and related technologies  
   
 
 <br/>  
