@@ -1,7 +1,7 @@
 ### <div align="center">I'm Siddhant, a  full-stack developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Docker and Kubernetes  
+
   
 
 -  🖥️ Intereseted in computer science , Linux  
