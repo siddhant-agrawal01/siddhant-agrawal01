@@ -2,13 +2,6 @@
   
 
 
-  
-
--  🖥️ Intereseted in computer science , Linux  
-  
-
-- ❓ Ask me about anything related to T3 stack and related technologies  
-  
 
 <br/>  
 
